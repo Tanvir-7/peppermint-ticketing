@@ -51,7 +51,6 @@ For every ticket I documented:
 
 > 📸 *Screenshot: `ticket-internal-notes.png` — shows the internal notes/comments section of a ticket with documented troubleshooting steps*
 
-> 📸 *Screenshot: `ticket-resolved-closed.png` — shows a ticket in Closed status with the final resolution note visible*
 
 ---
 
@@ -63,16 +62,8 @@ Tickets were created across multiple categories to simulate a realistic helpdesk
 |---|---|---|
 | P1 | Critical | Phishing email reported across accounting dept |
 | P2 | High | User cannot connect to VPN |
-| P3 | Medium | Slow internet for a single user |
-| P4 | Low | Software installation request |
+| P4 | Low | Outlook not syncing |
 
-Tickets spanned the following categories: Hardware, Software, Network, Account/Access, Email, and Security.
-
-> 📸 *Screenshot: `ticket-priority-dropdown.png` — shows the priority dropdown on a ticket set to Critical or High*
-
-> 📸 *Screenshot: `ticket-category-variety.png` — shows multiple tickets in the list with different priorities assigned, showing the range of P1–P4*
-
-> 📸 *Screenshot: `ticket-phishing-full.png` — shows the full phishing ticket from open to closed with all notes visible as an example of a complete P1 incident*
 
 ---
 
@@ -99,8 +90,6 @@ This reflects how real helpdesk teams manage technician accounts and control wha
 Client information was added to Peppermint's client database to simulate an MSP (Managed Service Provider) or enterprise environment where tickets are tied to specific clients or departments. This included adding client details such as name and contact information, and associating that client record within the system.
 
 > 📸 *Screenshot: `client-database-list.png` — shows the client list page with the added client entry visible*
-
-> 📸 *Screenshot: `client-detail-page.png` — shows the individual client detail/profile page with their info filled in*
 
 ---
 
