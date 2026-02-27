@@ -29,7 +29,6 @@ This project simulates a real-world IT helpdesk environment using Peppermint, an
 | Deployment | [e.g., Docker / Local install] |
 | Browser | Chrome / Firefox |
 
-> 📸 *Screenshot: `peppermint-login-page.png` — shows the Peppermint login screen confirming self-hosted setup*
 
 ---
 
