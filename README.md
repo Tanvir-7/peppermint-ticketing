@@ -53,7 +53,7 @@ For every ticket I documented:
 
 ![ticket-detail-open](Screenshots/Peppermint/ticket-detail-open.png)
 
-![ticket-internal-notes]()
+![ticket-internal-notes](Screenshots/Peppermint/ticket-internal-notes.png)
 
 
 
