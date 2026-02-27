@@ -51,7 +51,7 @@ For every ticket I documented:
  📸 *Screenshot: `ticket-internal-notes.png` — shows the internal notes/comments section of a ticket with documented troubleshooting steps* -->
 ![ticket-list-all-tickets](Screenshots/Peppermint/ticket-list-all-tickets.png)
 
-![ticket-detail-open]()
+![ticket-detail-open](Screenshots/Peppermint/ticket-detail-open.png)
 
 ![ticket-internal-notes]()
 
