@@ -100,7 +100,7 @@ This reflects how real helpdesk teams manage technician accounts and control wha
 Client information was added to Peppermint's client database to simulate an MSP (Managed Service Provider) or enterprise environment where tickets are tied to specific clients or departments. This included adding client details such as name and contact information, and associating that client record within the system.
 
 <!-- 📸 *Screenshot: `client-database-list.png` — shows the client list page with the added client entry visible*-->
-![client-database]()
+![client-database](Screenshots/Peppermint/client-database-list.png)
 
 
 ---
