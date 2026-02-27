@@ -46,11 +46,15 @@ For every ticket I documented:
 - Troubleshooting actions taken
 - Final resolution note before closing
 
-> 📸 *Screenshot: `ticket-list-all-tickets.png` — shows full list of all created tickets with their status and priority visible*
+<!--  📸 *Screenshot: `ticket-list-all-tickets.png` — shows full list of all created tickets with their status and priority visible*
+ 📸 *Screenshot: `ticket-detail-open.png` — shows a freshly created ticket in Open status with title, description, and priority filled in*
+ 📸 *Screenshot: `ticket-internal-notes.png` — shows the internal notes/comments section of a ticket with documented troubleshooting steps* -->
+![ticket-list-all-tickets](Screenshots/Peppermint/ticket-list-all-tickets.png)
 
-> 📸 *Screenshot: `ticket-detail-open.png` — shows a freshly created ticket in Open status with title, description, and priority filled in*
+![ticket-detail-open]()
 
-> 📸 *Screenshot: `ticket-internal-notes.png` — shows the internal notes/comments section of a ticket with documented troubleshooting steps*
+![ticket-internal-notes]()
+
 
 
 ---
