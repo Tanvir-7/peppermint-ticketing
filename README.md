@@ -15,7 +15,8 @@
 
 This project simulates a real-world IT helpdesk environment using Peppermint, an open-source ticketing system. The goal was to practice core helpdesk workflows including ticket lifecycle management, incident categorization and prioritization, user and client management, and role-based access control — skills directly applicable to Tier 1 and Tier 2 IT support roles.
 
-> 📸 *Screenshot: `peppermint-dashboard-overview.png` — shows the main Peppermint dashboard with tickets visible*
+<!-- 📸 *Screenshot: `peppermint-dashboard-overview.png` — shows the main Peppermint dashboard with tickets visible* -->
+![peppermint-dashboard](Screenshots/Peppermint/peppermint-dashboard-overview.png)
 
 ---
 
