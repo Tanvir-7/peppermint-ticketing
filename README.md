@@ -87,7 +87,8 @@ This reflects how real helpdesk teams manage technician accounts and control wha
 
  📸 *Screenshot: `internal-user-list.png` — shows the user list page confirming the new user exists in the system* -->
 ![user-creation](Screenshots/Peppermint/internal-user-creation-form.png)
-![role-assigned](Screenshots/Peppermint/internal-user-role-assigned-form.png)
+
+![role-assigned](Screenshots/Peppermint/internal-user-role-assigned.png)
 
 
  
