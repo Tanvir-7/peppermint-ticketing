@@ -25,9 +25,9 @@ This project simulates a real-world IT helpdesk environment using Peppermint, an
 | Component | Details |
 |---|---|
 | Ticketing System | Peppermint (self-hosted) |
-| Host Machine | [your OS here, e.g., Windows 11 / Ubuntu] |
-| Deployment | [e.g., Docker / Local install] |
-| Browser | Chrome / Firefox |
+| Host Machine | [Ubuntu Lxc] |
+| Deployment | [Docker] |
+| Browser | Firefox |
 
 
 ---
