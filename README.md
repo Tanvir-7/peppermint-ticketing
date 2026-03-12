@@ -1,4 +1,4 @@
-# IT Helpdesk Ticketing System Simulation using Peppermint
+# IT Helpdesk Ticketing System using Peppermint
 
 ## Table of Contents
 - [Overview](#overview)
